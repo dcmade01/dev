@@ -1,7 +1,9 @@
 # dev
 source:"http//.url/awsdcmade.org"
-ent
-todo
+ent()
+todo(flex/splurge))
 status:prod
 nameofproject;entcolmoneymakersteam
-tilte:awsvscodedc.py
+tilte:"awsvscodedc.py"
+motive()
+
